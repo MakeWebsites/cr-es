@@ -1,10 +1,11 @@
 ---
 ID: 1063
-post_title: Lecturas Climáticas
-author: AUtset
+post_title: Lecturas
+author: ANGEL UTSET
 post_excerpt: ""
 layout: page
-permalink: http://cr-es/lecturas-climaticas/
+permalink: >
+  https://es.climarisk.com/lecturas-climaticas/
 published: true
 post_date: 2018-08-01 09:44:04
 ---

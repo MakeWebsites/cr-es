@@ -1,11 +1,11 @@
 ---
 ID: 1282
 post_title: 'Modelo SWAP: Cómo mejorar el riego y la fertilización'
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/modelo-swap-como-mejorar-el-riego-y-la-fertilizacion/
+  https://es.climarisk.com/modelo-swap-como-mejorar-el-riego-y-la-fertilizacion/
 published: true
 post_date: 2019-05-31 13:34:44
 ---

@@ -1,11 +1,11 @@
 ---
 ID: 1024
 post_title: PHP climático
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cr-es/publicidad-climatica/php-climatico/
+  https://es.climarisk.com/publicidad-climatica/php-climatico/
 published: true
 post_date: 2018-08-01 09:48:30
 ---
@@ -38,7 +38,7 @@ La información se muestra en gráficos de Google, a través de código JavaScri
 <h4>PHP combinado con JavaScript Vue JS</h4>
 Quizás más importante que un plugin para uso general, es el código PHP específico para una página web o una entrada en WordPress. Podemos escribir código PHP especializado, proporcionando un <em>shortcode</em> que, al incluirlo en cualquier página, realice una acción determinada.&nbsp;El código PHP podemos vincularlo con frameworks JavaScript como&nbsp;<a href="https://vuejs.org/" target="_blank" rel="noreferrer noopener">Vue Js2</a>.[bmodal mtitle="VueJs2" divm="Vue"]Vue (pronunciado /vjuː/ en inglés, como view) es un framework progresivo para construir interfaces de usuario.[/bmodal]
 
-A continuación un ejemplo: <a href="http://cr-es/extremos-meteorologicos-en-espana/">Extremos meteorológicos</a> para provincias españolas. El código PHP descarga los datos desde la&nbsp;API "<a rel="noreferrer noopener" aria-label=" (abre en una nueva pestaña)" href="https://opendata.aemet.es/centrodedescargas/inicio" target="_blank">AEMET Open Data</a>" del Instituto Español de Meteorología y se muestran en una tabla.
+A continuación un ejemplo: <a href="https://es.climarisk.com/extremos-meteorologicos-en-espana/">Extremos meteorológicos</a> para provincias españolas. El código PHP descarga los datos desde la&nbsp;API "<a rel="noreferrer noopener" aria-label=" (abre en una nueva pestaña)" href="https://opendata.aemet.es/centrodedescargas/inicio" target="_blank">AEMET Open Data</a>" del Instituto Español de Meteorología y se muestran en una tabla.
 
 El código JavaScript con Vue Js constituye una aplicación de&nbsp;una sola página (<em>single-page-application</em>, SPA). Al cambiar de provincia la página se recarga automáticamente desde el lado del usuario.
 

@@ -1,11 +1,11 @@
 ---
 ID: 1085
 post_title: Simulación del lavado de nitratos
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/simulacion-del-lavado-de-nitratos/
+  https://es.climarisk.com/simulacion-del-lavado-de-nitratos/
 published: true
 post_date: 2018-08-19 09:03:03
 ---

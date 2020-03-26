@@ -3,11 +3,11 @@ ID: 717
 post_title: >
   Restricciones del riego debidas a
   embalses con poca capacidad
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/riesgo-restricciones-del-riego/
+  https://es.climarisk.com/riesgo-restricciones-del-riego/
 published: true
 post_date: 2017-04-11 13:57:40
 ---

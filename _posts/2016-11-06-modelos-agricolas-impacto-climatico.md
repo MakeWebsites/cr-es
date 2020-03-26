@@ -3,11 +3,11 @@ ID: 412
 post_title: >
   Modelos agrícolas y simulación de
   impacto climático
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/modelos-agricolas-impacto-climatico/
+  https://es.climarisk.com/modelos-agricolas-impacto-climatico/
 published: true
 post_date: 2016-11-06 09:34:09
 ---

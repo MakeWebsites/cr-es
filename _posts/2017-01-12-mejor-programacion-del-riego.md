@@ -3,11 +3,11 @@ ID: 572
 post_title: >
   Mejor programación del riego para
   reducir riesgos climáticos
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/mejor-programacion-del-riego/
+  https://es.climarisk.com/mejor-programacion-del-riego/
 published: true
 post_date: 2017-01-12 12:03:32
 ---

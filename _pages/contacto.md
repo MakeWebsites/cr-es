@@ -1,10 +1,10 @@
 ---
 ID: 295
 post_title: Contacto
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: page
-permalink: http://cr-es/contacto/
+permalink: https://es.climarisk.com/contacto/
 published: true
 post_date: 2016-08-16 17:22:06
 ---

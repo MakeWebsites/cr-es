@@ -3,11 +3,11 @@ ID: 394
 post_title: >
   Han aumentado los riesgos climáticos a
   nivel global
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/han-aumentado-los-riesgos-climaticos/
+  https://es.climarisk.com/han-aumentado-los-riesgos-climaticos/
 published: true
 post_date: 2016-11-03 11:36:09
 ---

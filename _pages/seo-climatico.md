@@ -1,11 +1,11 @@
 ---
 ID: 996
 post_title: SEO climático
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cr-es/publicidad-climatica/seo-climatico/
+  https://es.climarisk.com/publicidad-climatica/seo-climatico/
 published: true
 post_date: 2018-08-01 09:48:53
 ---

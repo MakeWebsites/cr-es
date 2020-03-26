@@ -3,11 +3,11 @@ ID: 809
 post_title: >
   Manejo sostenible del riego a través de
   simulaciones
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/manejo-sostenible-del-riego/
+  https://es.climarisk.com/manejo-sostenible-del-riego/
 published: true
 post_date: 2017-06-10 13:05:42
 ---

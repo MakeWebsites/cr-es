@@ -1,11 +1,11 @@
 ---
 ID: 934
 post_title: Efectos del Cambio Climático por país
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/efectos-del-cambio-climatico-por-pais/
+  https://es.climarisk.com/efectos-del-cambio-climatico-por-pais/
 published: true
 post_date: 2018-01-04 09:39:06
 ---

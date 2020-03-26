@@ -3,10 +3,11 @@ ID: 130
 post_title: >
   Generadores de tiempo y análisis de
   impacto climático
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
-permalink: http://cr-es/generadores-de-tiempo/
+permalink: >
+  https://es.climarisk.com/generadores-de-tiempo/
 published: true
 post_date: 2016-08-17 06:30:54
 ---

@@ -3,11 +3,11 @@ ID: 623
 post_title: >
   Simular la Programación del riego para
   ahorrar agua y energía
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/simular-la-programacion-del-riego/
+  https://es.climarisk.com/simular-la-programacion-del-riego/
 published: true
 post_date: 2017-03-04 16:26:02
 ---

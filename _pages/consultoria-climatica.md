@@ -1,10 +1,11 @@
 ---
 ID: 1036
-post_title: Consultoría Climática
-author: AUtset
+post_title: Consultoría
+author: ANGEL UTSET
 post_excerpt: ""
 layout: page
-permalink: http://cr-es/consultoria-climatica/
+permalink: >
+  https://es.climarisk.com/consultoria-climatica/
 published: true
 post_date: 2018-08-01 09:44:23
 ---

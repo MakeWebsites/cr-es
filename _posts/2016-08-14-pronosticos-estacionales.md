@@ -3,10 +3,11 @@ ID: 241
 post_title: >
   Pronósticos estacionales y variabilidad
   climática
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
-permalink: http://cr-es/pronosticos-estacionales/
+permalink: >
+  https://es.climarisk.com/pronosticos-estacionales/
 published: true
 post_date: 2016-08-14 12:35:56
 ---

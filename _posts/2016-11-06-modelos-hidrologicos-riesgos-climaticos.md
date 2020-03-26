@@ -3,11 +3,11 @@ ID: 464
 post_title: >
   Modelos hidrológicos y riesgos
   climáticos
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/modelos-hidrologicos-riesgos-climaticos/
+  https://es.climarisk.com/modelos-hidrologicos-riesgos-climaticos/
 published: true
 post_date: 2016-11-06 12:36:05
 ---

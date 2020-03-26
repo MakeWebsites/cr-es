@@ -1,11 +1,11 @@
 ---
 ID: 1130
 post_title: Extremos meteorológicos en España
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/extremos-meteorologicos-en-espana/
+  https://es.climarisk.com/extremos-meteorologicos-en-espana/
 published: true
 post_date: 2019-01-04 16:56:53
 ---

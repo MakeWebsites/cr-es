@@ -1,11 +1,11 @@
 ---
 ID: 1012
 post_title: WordPress climático
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cr-es/publicidad-climatica/wordpress-climatico/
+  https://es.climarisk.com/publicidad-climatica/wordpress-climatico/
 published: true
 post_date: 2018-08-01 09:49:22
 ---

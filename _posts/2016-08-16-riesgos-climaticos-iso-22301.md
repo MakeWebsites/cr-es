@@ -3,11 +3,11 @@ ID: 284
 post_title: >
   Gestión de riesgos climáticos ISO
   22301
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/riesgos-climaticos-iso-22301/
+  https://es.climarisk.com/riesgos-climaticos-iso-22301/
 published: true
 post_date: 2016-08-16 09:26:47
 ---

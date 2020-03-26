@@ -1,15 +1,15 @@
 ---
-ID: 1635
+ID: 1779
 post_title: >
   ¿Podemos alcanzar la neutralidad del
   carbono?
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/podemos-alcanzar-la-neutralidad-del-carbono/
+  https://es.climarisk.com/podemos-alcanzar-la-neutralidad-del-carbono/
 published: true
-post_date: 2020-03-22 13:05:12
+post_date: 2020-03-22 13:14:13
 ---
 El término "<strong>neutralidad del carbono</strong>" o sus sinónimos "<strong>emisiones neutras</strong>" o "<strong>carbon cero</strong>" se refieren a lograr que el balance neto de emisiones GEI sea cero. Es decir, las emisiones se compensen con las capturas.
 
