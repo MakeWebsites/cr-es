@@ -53,13 +53,13 @@ Nuestros sitios webs en WordPress incluyen SEO, contenido relevante y enlaces co
 <div class="col-md-5"><a title="Sitios en WordPress para inicitivas climáticas" href="https://es.climarisk.com/publicidad-climatica/wordpress-climate/">
 </a>
 <div class="d-none d-sm-block"><a title="Sitios en WordPress para inicitivas climáticas" href="https://es.climarisk.com/publicidad-climatica/wordpress-climate/">
-<img class="rounded img-responsive d-none d-lg-block" src="https://climarisk.com/wp-content/uploads/2018/06/Hoover-dam.gz" alt="Sitios en WordPress para inicitivas climáticas"></a></div>
+<img class="rounded img-responsive d-none d-lg-block" src="https://climarisk.com/wp-content/uploads/2018/06/Hoover-dam.png" alt="Sitios en WordPress para inicitivas climáticas"></a></div>
 </div>
 </div>
-<a href="https://es.climarisk.com/publicidad-climatica/wordpress-climate/"><button class="btn btn-lg btn-filled" style="white-space:normal;">WordPress climático en ClimaRisk</button></a>
+<a href="https://es.climarisk.com/publicidad-climatica/wordpress-climate/"><button class="btn btn-lg btn-filled" style="white-space: normal;">WordPress climático en ClimaRisk</button></a>
 
 [divider]
-<h4>Plugins especializados  - PHP climático</h4>
+<h4>Plugins especializados - PHP climático</h4>
 Quizás los productos más importantes de nuestra agencia de publicidad climática son los plugins personalizados hechos en <a href="https://php.net/">PHP</a>. Somos particularmente expertos mostrando información climática relevante para el público objetivo.
 <div class="row">
 <div class="col-md-7">
@@ -70,6 +70,6 @@ Nuestro <a href="https://es.climarisk.com/publicidad-climatica/php-climatico/">P
 
 </div>
 <div class="col-md-5"><a title="PHP climático para sitios webs de nuevas inciativas climáticas" href="https://es.climarisk.com/publicidad-climatica/climate-php/">
-<img class="rounded img-responsive pb-2" src="https://climarisk.com/wp-content/uploads/2018/07/climate-php.gz" alt="Publicidad climática: PHP"></a></div>
+<img class="rounded img-responsive pb-2" src="https://climarisk.com/wp-content/uploads/2018/07/climate-php.jpg" alt="Publicidad climática: PHP"></a></div>
 </div>
-<a href="https://es.climarisk.com/publicidad-climatica/php-climatico/"><button class="btn btn-lg btn-filled" style="white-space:normal;">Plugins PHP climáticos en ClimaRisk</button></a>
+<a href="https://es.climarisk.com/publicidad-climatica/php-climatico/"><button class="btn btn-lg btn-filled" style="white-space: normal;">Plugins PHP climáticos en ClimaRisk</button></a>
