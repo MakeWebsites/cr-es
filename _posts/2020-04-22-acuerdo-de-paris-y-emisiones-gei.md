@@ -1,13 +1,13 @@
 ---
-ID: 1681
+ID: 1810
 post_title: Acuerdo de París y emisiones GEI
-author: AUtset
+author: ANGEL UTSET
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cr-es/acuerdo-de-paris-y-emisiones-gei/
+  https://es.climarisk.com/acuerdo-de-paris-y-emisiones-gei/
 published: true
-post_date: 2020-04-22 13:56:02
+post_date: 2020-04-22 14:08:39
 ---
 <!-- wp:paragraph -->
 <p>El Acuerdo de París pretende reducir la emisión de Gases de Efecto Invernadero (GEI) y lograr que el calentamiento del planeta a finales de siglo sea menor que 2ºC, comparado con los niveles pre-industriales. El Acuerdo ha sido ratificado por 188 países y es prácticamente universal.</p>
@@ -73,6 +73,6 @@ post_date: 2020-04-22 13:56:02
 <figure class="wp-block-image"><img src="https://climarisk.com/wp-content/uploads/2020/04/Paris-Agreement-1024x768.jpg" alt="Paris Agreement" class="wp-image-2471"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:paragraph -->
-<p>Tal y como señala el NDC chino, "Un viaje de mil millas comienza desde el primer paso". No podemos revertir el cambio climático, pero podríamos disminuir sus efectos mediante la adopción de políticas "verdes", destinadas a reducir las emisiones de GEI. El Acuerdo de París y los NDC son unas herramientas prometedoras para lograr este objetivo.</p>
+<!-- wp:paragraph {"className":"framed-box"} -->
+<p class="framed-box">Tal y como señala el NDC chino, "Un viaje de mil millas comienza en el primer paso". No podemos revertir el cambio climático, pero podríamos disminuir sus efectos mediante la adopción de políticas "verdes", destinadas a reducir las emisiones de GEI. El Acuerdo de París y los NDC son unas herramientas prometedoras para lograr este objetivo.</p>
 <!-- /wp:paragraph -->
