@@ -58,7 +58,7 @@ post_date: 2020-04-22 13:56:02
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Según el estudio de los efectos agregados de los NDC recibidos por UNFCC, se espera que el promedio per cápita de las emisiones de GEI disminuya en un 8 y un 4 por ciento para 2025 y en un 10 y un 5 por ciento para 2030, en comparación con los niveles en 1990 y 2010, respectivamente. Esta información será considerada también por el <a rel="noreferrer noopener" href="https://www.ipcc.ch/languages-2/spanish/" target="_blank">IPCC</a> en sus próximas proyecciones de los efectos del cambio global.</p>
+<p>Según el estudio de los efectos agregados de los NDC recibidos por UNFCC, se espera que el promedio per cápita de las emisiones de GEI disminuya en un 8 y un 4 por ciento para 2025 y en un 10 y un 5 por ciento para 2030, en comparación con los niveles en 1990 y 2010, respectivamente. Esta información será considerada también por el <a rel="noreferrer noopener" href="https://www.ipcc.ch/languages-2/spanish/" target="_blank">IPCC</a> en sus próximos <a href="https://es.climarisk.com/proyecciones-del-cambio-climatico/">escenarios</a> de emisiones GEI.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
