@@ -13,6 +13,10 @@ post_date: 2020-04-22 14:08:39
 <p>El Acuerdo de París pretende reducir la emisión de Gases de Efecto Invernadero (GEI) y lograr que el calentamiento del planeta a finales de siglo sea menor que 2ºC, comparado con los niveles pre-industriales. El Acuerdo ha sido ratificado por 188 países y es prácticamente universal.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:more -->
+<!--more-->
+<!-- /wp:more -->
+
 <!-- wp:paragraph {"className":"framed-box"} -->
 <p class="framed-box">En realidad, solo 25 países (ver gráfico debajo) contribuyen con más del 90% del total de emisiones GEI. China es el emisor más importante, con más del 25% del total mundial de GEI. Solo tres países: China, Estados Unidos e India, son responsables de casi la mitad de todas las emisiones GEI que la humanidad envía a la atmósfera terrestre. </p>
 <!-- /wp:paragraph -->
@@ -32,10 +36,6 @@ post_date: 2020-04-22 14:08:39
 <!-- wp:paragraph -->
 <p>El Acuerdo de París compromete a las partes firmantes a realizar sus mejores esfuerzos en la reducción de emisiones GEI en los años siguientes, a través de "Contribuciones Determinadas a Nivel Nacional" <em>(NDCs</em>, en inglés). Las partes deben informar regularmente sobre sus emisiones y sobre los esfuerzos de implementación de los NDCs. También habrá un inventario global cada 5 años para evaluar el progreso colectivo y establecer en qué medida se logra el propósito del Acuerdo.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:more -->
-<!--more-->
-<!-- /wp:more -->
 
 <!-- wp:image -->
 <figure class="wp-block-image"><img src="https://unfccc.int/sites/default/files/styles/hero_carousel_960x640/public/paris_agreement_adopted_1_758.jpg?itok=WTjOIvOr" alt="Acuerdo de Paris"/></figure>
